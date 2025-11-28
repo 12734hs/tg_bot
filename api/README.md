@@ -1,0 +1,1 @@
+Here we have two files: api.py takes information about the student from Holberton Api. Second, tg_bot.py creates a Telegram bot, tale information about the Student from API.py and send it to the chat with user
